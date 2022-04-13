@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Mautic Lead Tracking Event",
+  "categories": ["CONVERSIONS", "ANALYTICS", "EMAIL_MARKETING", "LEAD_GENERATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Powertic Marketing",
