@@ -1,5 +1,5 @@
 homepage: "https://powertic.com/pt-br/"
 documentation: "https://powertic.com/pt-br/guia-definitivo-utm-tags-com-mautic/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 356a192b7913b04c54574d18c28d46e6395428ab
     changeNotes: Initial release.
